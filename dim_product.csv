@@ -1,0 +1,121 @@
+product_id,product_name,category,subcategory,brand,unitcost,listprice,package_size
+P0001,BluePeak Soda 7,Beverages,Soda,GoodDay,3.8,9.28,4-pack
+P0002,UrbanBite Soda 2,Beverages,Soda,Prime,4.11,5.93,4-pack
+P0003,BluePeak Soda 2,Beverages,Soda,Prime,3.68,8.54,Family
+P0004,BluePeak Soda 6,Beverages,Soda,Sunrise,2.55,5.26,2-pack
+P0005,FreshCo Soda 4,Beverages,Soda,Acme,0.88,1.27,2-pack
+P0006,FreshCo Soda 9,Beverages,Soda,Prime,7.7,15.45,Single
+P0007,BluePeak Juice 7,Beverages,Juice,UrbanBite,2.27,4.82,Single
+P0008,FreshCo Juice 7,Beverages,Juice,NatureFit,6.27,8.24,Single
+P0009,Prime Juice 1,Beverages,Juice,Acme,2.32,4.28,Single
+P0010,GoodDay Juice 5,Beverages,Juice,BluePeak,7.24,16.58,Family
+P0011,GoodDay Juice 8,Beverages,Juice,Sunrise,2.59,4.28,Family
+P0012,Prime Juice 8,Beverages,Juice,Acme,1.58,2.92,Family
+P0013,NatureFit Water 6,Beverages,Water,Prime,5.81,10.64,Single
+P0014,GoodDay Water 6,Beverages,Water,Acme,5.09,8.46,Single
+P0015,BluePeak Water 7,Beverages,Water,Prime,0.86,2.07,2-pack
+P0016,GoodDay Water 5,Beverages,Water,GoodDay,0.52,1.16,4-pack
+P0017,FreshCo Water 7,Beverages,Water,Acme,1.33,1.91,2-pack
+P0018,NatureFit Water 2,Beverages,Water,FreshCo,4.78,11.93,2-pack
+P0019,UrbanBite Coffee 5,Beverages,Coffee,FreshCo,4.73,11.14,Single
+P0020,FreshCo Coffee 1,Beverages,Coffee,GoodDay,4.81,7.89,4-pack
+P0021,UrbanBite Coffee 5,Beverages,Coffee,NatureFit,3.96,9.12,2-pack
+P0022,FreshCo Coffee 5,Beverages,Coffee,BluePeak,0.85,1.21,Single
+P0023,Prime Coffee 2,Beverages,Coffee,Sunrise,7.52,18.79,4-pack
+P0024,NatureFit Coffee 3,Beverages,Coffee,UrbanBite,3.89,8.16,Family
+P0025,FreshCo Chips 8,Snacks,Chips,Prime,4.26,8.86,Single
+P0026,FreshCo Chips 8,Snacks,Chips,Acme,0.37,0.52,2-pack
+P0027,UrbanBite Chips 3,Snacks,Chips,Sunrise,1.29,3.07,Family
+P0028,BluePeak Chips 7,Snacks,Chips,Acme,1.05,1.4,4-pack
+P0029,FreshCo Chips 7,Snacks,Chips,BluePeak,5.34,8.49,Family
+P0030,FreshCo Chips 1,Snacks,Chips,Sunrise,6.2,9.12,2-pack
+P0031,UrbanBite Nuts 3,Snacks,Nuts,Acme,2,4.46,2-pack
+P0032,Sunrise Nuts 4,Snacks,Nuts,FreshCo,4.53,6.97,4-pack
+P0033,NatureFit Nuts 9,Snacks,Nuts,FreshCo,6.5,15.55,Single
+P0034,BluePeak Nuts 3,Snacks,Nuts,Sunrise,7.63,15.93,Single
+P0035,Sunrise Nuts 9,Snacks,Nuts,UrbanBite,2.2,2.96,4-pack
+P0036,Sunrise Nuts 1,Snacks,Nuts,FreshCo,1.48,1.93,4-pack
+P0037,Prime Chocolate 2,Snacks,Chocolate,UrbanBite,7.94,10.81,Single
+P0038,NatureFit Chocolate 9,Snacks,Chocolate,GoodDay,6.04,12.24,4-pack
+P0039,UrbanBite Chocolate 5,Snacks,Chocolate,FreshCo,4.25,9.61,2-pack
+P0040,FreshCo Chocolate 6,Snacks,Chocolate,Prime,6.22,9.87,4-pack
+P0041,FreshCo Chocolate 7,Snacks,Chocolate,BluePeak,0.94,2.18,Family
+P0042,Acme Chocolate 9,Snacks,Chocolate,UrbanBite,2.25,3.08,Single
+P0043,GoodDay Biscuits 1,Snacks,Biscuits,NatureFit,1.16,2.62,Family
+P0044,BluePeak Biscuits 2,Snacks,Biscuits,FreshCo,1.4,3.38,2-pack
+P0045,Sunrise Biscuits 1,Snacks,Biscuits,GoodDay,7.02,15.63,Family
+P0046,UrbanBite Biscuits 7,Snacks,Biscuits,FreshCo,2.62,5.6,2-pack
+P0047,UrbanBite Biscuits 4,Snacks,Biscuits,GoodDay,4.11,9.48,2-pack
+P0048,GoodDay Biscuits 3,Snacks,Biscuits,FreshCo,0.31,0.42,Family
+P0049,GoodDay Cleaning 9,Household,Cleaning,Acme,5.49,8.47,4-pack
+P0050,UrbanBite Cleaning 7,Household,Cleaning,NatureFit,4.15,6.02,Single
+P0051,Sunrise Cleaning 8,Household,Cleaning,NatureFit,1.76,3.35,4-pack
+P0052,Acme Cleaning 7,Household,Cleaning,NatureFit,5.78,12.68,Family
+P0053,GoodDay Cleaning 6,Household,Cleaning,UrbanBite,1.17,2.41,2-pack
+P0054,UrbanBite Cleaning 3,Household,Cleaning,GoodDay,3.3,7.66,Family
+P0055,Prime Paper 3,Household,Paper,UrbanBite,5.37,7.98,4-pack
+P0056,UrbanBite Paper 9,Household,Paper,Prime,2.43,5.3,2-pack
+P0057,Acme Paper 2,Household,Paper,BluePeak,4.53,6.94,Single
+P0058,BluePeak Paper 2,Household,Paper,BluePeak,1.03,1.67,4-pack
+P0059,Prime Paper 2,Household,Paper,Sunrise,7.74,16.66,Single
+P0060,BluePeak Paper 8,Household,Paper,Prime,7.48,18.52,Family
+P0061,Prime Laundry 8,Household,Laundry,Acme,6.32,12.85,4-pack
+P0062,FreshCo Laundry 8,Household,Laundry,FreshCo,1.05,1.43,2-pack
+P0063,NatureFit Laundry 4,Household,Laundry,Sunrise,2.01,4.1,Single
+P0064,UrbanBite Laundry 8,Household,Laundry,NatureFit,4.93,6.66,4-pack
+P0065,Sunrise Laundry 2,Household,Laundry,FreshCo,3.42,8.07,Single
+P0066,Acme Laundry 6,Household,Laundry,UrbanBite,3.52,7.57,2-pack
+P0067,NatureFit Skin 5,Personal Care,Skin,GoodDay,3.74,5.64,Family
+P0068,UrbanBite Skin 7,Personal Care,Skin,NatureFit,2.05,2.89,Family
+P0069,NatureFit Skin 8,Personal Care,Skin,Acme,1.02,1.55,Family
+P0070,FreshCo Skin 2,Personal Care,Skin,GoodDay,4.84,11.98,Family
+P0071,NatureFit Skin 9,Personal Care,Skin,GoodDay,2.62,4.85,4-pack
+P0072,Sunrise Skin 2,Personal Care,Skin,GoodDay,7.38,16.54,Single
+P0073,FreshCo Hair 5,Personal Care,Hair,Acme,1.4,2.89,Family
+P0074,BluePeak Hair 1,Personal Care,Hair,GoodDay,0.36,0.72,Family
+P0075,GoodDay Hair 4,Personal Care,Hair,Sunrise,0.62,0.91,Family
+P0076,NatureFit Hair 4,Personal Care,Hair,NatureFit,5.51,13.42,4-pack
+P0077,FreshCo Hair 7,Personal Care,Hair,UrbanBite,4.14,6.88,Single
+P0078,Sunrise Hair 1,Personal Care,Hair,Prime,6.84,13.64,4-pack
+P0079,GoodDay Oral 3,Personal Care,Oral,GoodDay,2.05,4.39,2-pack
+P0080,UrbanBite Oral 4,Personal Care,Oral,FreshCo,4.66,9.69,Family
+P0081,Acme Oral 9,Personal Care,Oral,Sunrise,3.11,7.55,2-pack
+P0082,Acme Oral 8,Personal Care,Oral,Acme,0.99,1.46,2-pack
+P0083,Acme Oral 7,Personal Care,Oral,Acme,7.41,14.15,Single
+P0084,NatureFit Oral 9,Personal Care,Oral,GoodDay,6.78,12.1,Family
+P0085,UrbanBite Meals 6,Frozen,Meals,NatureFit,6.46,12.07,Family
+P0086,Sunrise Meals 8,Frozen,Meals,BluePeak,5.21,7.52,Single
+P0087,GoodDay Meals 3,Frozen,Meals,Sunrise,4.38,6.4,2-pack
+P0088,NatureFit Meals 5,Frozen,Meals,NatureFit,6.89,11.26,2-pack
+P0089,Prime Meals 3,Frozen,Meals,FreshCo,5.19,8.64,2-pack
+P0090,Prime Meals 5,Frozen,Meals,GoodDay,1.29,2.34,Family
+P0091,Prime Ice Cream 4,Frozen,Ice Cream,FreshCo,2.01,4.09,Single
+P0092,BluePeak Ice Cream 3,Frozen,Ice Cream,Prime,3.06,6.31,2-pack
+P0093,Prime Ice Cream 3,Frozen,Ice Cream,FreshCo,5.55,9.96,Single
+P0094,BluePeak Ice Cream 9,Frozen,Ice Cream,NatureFit,7.6,13.61,Single
+P0095,Prime Ice Cream 5,Frozen,Ice Cream,Sunrise,2.76,4.31,Family
+P0096,Prime Ice Cream 6,Frozen,Ice Cream,GoodDay,6.82,13.68,Family
+P0097,NatureFit Veg 7,Frozen,Veg,BluePeak,4.36,7.33,Single
+P0098,GoodDay Veg 7,Frozen,Veg,Acme,2.45,3.29,4-pack
+P0099,GoodDay Veg 5,Frozen,Veg,NatureFit,5.62,10.13,Single
+P0100,UrbanBite Veg 6,Frozen,Veg,BluePeak,1.23,2.3,Single
+P0101,Acme Veg 6,Frozen,Veg,Acme,5.86,9.2,2-pack
+P0102,BluePeak Veg 2,Frozen,Veg,UrbanBite,7.5,14.9,Single
+P0103,UrbanBite Bread 4,Bakery,Bread,Sunrise,6.45,12.76,2-pack
+P0104,UrbanBite Bread 8,Bakery,Bread,UrbanBite,6.3,13.5,Family
+P0105,UrbanBite Bread 7,Bakery,Bread,Sunrise,2.18,4.53,4-pack
+P0106,Sunrise Bread 6,Bakery,Bread,GoodDay,0.94,1.96,4-pack
+P0107,GoodDay Bread 1,Bakery,Bread,Sunrise,4.61,7.74,2-pack
+P0108,BluePeak Bread 5,Bakery,Bread,BluePeak,3.83,8.6,Single
+P0109,NatureFit Cakes 5,Bakery,Cakes,Prime,6.43,12.6,Single
+P0110,GoodDay Cakes 9,Bakery,Cakes,NatureFit,4.88,8.87,2-pack
+P0111,Acme Cakes 7,Bakery,Cakes,Acme,1.11,2.28,Single
+P0112,BluePeak Cakes 4,Bakery,Cakes,UrbanBite,5.33,9.24,Family
+P0113,NatureFit Cakes 7,Bakery,Cakes,FreshCo,5.44,10.42,Family
+P0114,NatureFit Cakes 7,Bakery,Cakes,BluePeak,7.21,15.75,Family
+P0115,FreshCo Pastries 5,Bakery,Pastries,FreshCo,3.04,7.19,4-pack
+P0116,UrbanBite Pastries 2,Bakery,Pastries,Acme,1.43,3.44,4-pack
+P0117,UrbanBite Pastries 7,Bakery,Pastries,Prime,3.62,6.89,4-pack
+P0118,GoodDay Pastries 5,Bakery,Pastries,UrbanBite,5.89,11.33,2-pack
+P0119,UrbanBite Pastries 6,Bakery,Pastries,Prime,6.29,14.21,4-pack
+P0120,BluePeak Pastries 9,Bakery,Pastries,Acme,3.14,5.27,Family

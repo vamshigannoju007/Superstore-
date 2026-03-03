@@ -1,0 +1,41 @@
+StoreID,StoreName,Country,Region,City,OpenDate,StoreType
+S001,Store S001,UK,England,Leeds,2018-06-27,RetailPark
+S002,Store S002,France,Nouvelle-Aquitaine,Bordeaux,2023-01-31,Airport
+S003,Store S003,France,Auvergne-Rhône-Alpes,Lyon,2017-08-05,Mall
+S004,Store S004,Germany,NRW,Cologne,2017-02-26,RetailPark
+S005,Store S005,Germany,Bavaria,Munich,2021-02-21,HighStreet
+S006,Store S006,India,Delhi,New Delhi,2020-09-24,Mall
+S007,Store S007,UK,Scotland,Edinburgh,2016-04-04,Mall
+S008,Store S008,France,Nouvelle-Aquitaine,Bordeaux,2022-06-30,Airport
+S009,Store S009,Ireland,Connacht,Galway,2016-10-19,HighStreet
+S010,Store S010,UK,Northern Ireland,Belfast,2022-03-30,Mall
+S011,Store S011,Germany,Hesse,Frankfurt,2015-01-25,Mall
+S012,Store S012,India,Telangana,Hyderabad,2022-03-04,Airport
+S013,Store S013,France,Occitanie,Toulouse,2022-01-30,Airport
+S014,Store S014,France,Occitanie,Toulouse,2022-01-09,HighStreet
+S015,Store S015,France,Occitanie,Toulouse,2020-12-25,HighStreet
+S016,Store S016,France,Île-de-France,Paris,2019-03-31,Airport
+S017,Store S017,Germany,Berlin,Berlin,2021-05-06,HighStreet
+S018,Store S018,UK,England,Birmingham,2017-06-29,Airport
+S019,Store S019,India,Karnataka,Bengaluru,2022-01-10,Mall
+S020,Store S020,Germany,Berlin,Berlin,2020-01-01,Airport
+S021,Store S021,Germany,Hesse,Frankfurt,2019-02-17,Mall
+S022,Store S022,Ireland,Connacht,Galway,2019-07-20,Mall
+S023,Store S023,UK,Scotland,Edinburgh,2020-02-13,RetailPark
+S024,Store S024,India,Delhi,New Delhi,2015-05-03,HighStreet
+S025,Store S025,France,Occitanie,Toulouse,2016-04-04,RetailPark
+S026,Store S026,France,Occitanie,Toulouse,2017-03-17,RetailPark
+S027,Store S027,Germany,Hesse,Frankfurt,2016-01-12,Airport
+S028,Store S028,India,Maharashtra,Mumbai,2018-12-16,Airport
+S029,Store S029,Germany,Bavaria,Munich,2021-01-06,RetailPark
+S030,Store S030,Germany,NRW,Düsseldorf,2020-11-21,Mall
+S031,Store S031,Germany,Hesse,Frankfurt,2019-03-29,Mall
+S032,Store S032,Ireland,Leinster,Dublin,2022-09-11,Mall
+S033,Store S033,UK,Scotland,Edinburgh,2020-02-01,Airport
+S034,Store S034,Germany,Bavaria,Munich,2015-09-18,Mall
+S035,Store S035,India,Karnataka,Bengaluru,2021-11-19,HighStreet
+S036,Store S036,UK,Scotland,Edinburgh,2020-03-03,Mall
+S037,Store S037,India,Maharashtra,Pune,2020-09-17,HighStreet
+S038,Store S038,India,Telangana,Hyderabad,2020-02-02,HighStreet
+S039,Store S039,Ireland,Connacht,Galway,2019-12-25,HighStreet
+S040,Store S040,France,Auvergne-Rhône-Alpes,Lyon,2015-10-25,Airport

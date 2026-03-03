@@ -1,4 +1,4 @@
-Retail Sales & Profit Leakage Dashboard (Power BI)
+#Retail Sales & Profit Leakage Dashboard (Power BI)
 Overview
 
 This project is an end-to-end Power BI dashboard built to report sales performance (LY vs CY) and identify profit leakage by product, brand, geography, and store.
